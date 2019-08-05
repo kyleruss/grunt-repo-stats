@@ -11,7 +11,7 @@
     var userApiUrl = `https://api.github.com/users/${githubUsername}/`;
     var repoApiUrl = `https://api.github.com/repos/${githubUsername}/`;
     var apiContentUrl = `https://raw.githubusercontent.com/${githubUsername}/`;
-    var repoDataFile = "repository-data.json";
+    var repoDataFile = "Tasks/repository-data.json";
 
     var COMMITS_TASK = 0,
         CODE_TASK = 1,
