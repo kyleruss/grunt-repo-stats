@@ -1,0 +1,11 @@
+{
+    "repo-filters":
+    {
+        "my-project": { "languages": [ "PHP", "JS" ], "codeLines": 5000}
+    },
+
+    "language-filters":
+    {
+        "JavaScript": "JS"
+    }
+}
