@@ -1,4 +1,4 @@
-<img src="appicon.png" align="left" />
+<img src="preview/appicon.png" align="left" />
 
 # Repository Scraper
 
