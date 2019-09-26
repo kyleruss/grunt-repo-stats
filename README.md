@@ -1,8 +1,11 @@
+<img src="appicon.png" align="left" />
+
 # Repository Scraper
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
 Repository Scraper is a collection of Grunt tasks that can be used to pull useful repository data including  
-repository names, descriptions, commit and code line count, language breakdown, readme content and organizes the data in json.  
-There are also tasks to filter repository data including abnormal data, language abbreviations 
+repository names, descriptions, commit and code line count, language breakdown, readme content and organizes the data in json. There are also tasks to filter repository data including abnormal data, language abbreviations 
 
 ## Tasks
 ### repo-load
